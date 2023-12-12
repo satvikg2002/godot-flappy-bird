@@ -2,5 +2,6 @@
 Implementation of Flappy Bird in the Godot game engine
 
 
-https://github.com/satvikg2002/godot-flappy-bird/assets/39609575/bf2384d1-6252-4d17-9af0-95f412221ab2
+
+https://github.com/satvikg2002/godot-flappy-bird/assets/39609575/c7ed0e1a-f0a2-401e-9bee-0b3ad8e1da30
 
