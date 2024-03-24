@@ -28,6 +28,12 @@ window/size/window_height_override=768
 window/stretch/mode="viewport"
 window/stretch/aspect="expand"
 
+[editor]
+
+movie_writer/movie_file="C:/Users/asus/OneDrive/Desktop/Projects/godot-game/film.avi"
+movie_writer/disable_vsync=true
+movie_writer/fps=30
+
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
